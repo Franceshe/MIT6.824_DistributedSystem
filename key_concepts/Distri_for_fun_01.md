@@ -6,14 +6,13 @@
 
 #### Why use distributed system in software sense but not hardware?
 
-...1. To aviod add hardware complexity, since sometimes upgrading hardware is
+* To aviod add hardware complexity, since sometimes upgrading hardware is
 not a viable strategy for large scale computing.
-...2. When adding new machines, we have to use distributed algorithm to efficient
-ly copy datas around and coordinate computation tasks. At minimum cost.
+*  When adding new machines, we have to use distributed algorithm to efficiently copy datas around and coordinate computation tasks. At minimum cost.
 
 #### Focus in this text:
-...* disributed programming and system in DATA CENTERS.
-...* Explore the system design space rather than optimization specific design.
+* disributed programming and system in DATA CENTERS.
+* Explore the system design space rather than optimization specific design.
 
 #### Goal: achieve Scalability and ...
 * Scalability: how to dealt with size issue? a more formal definition:is the
