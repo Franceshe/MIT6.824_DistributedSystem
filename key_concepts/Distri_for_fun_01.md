@@ -19,14 +19,14 @@ not a viable strategy for large scale computing.
 ability of a system, network, or process, to handle a growing amount of work in a capable manner or its ability to be enlarged to accommodate that growth.
 * About size scalability, geographic scalability, admin scalability.
 * Two relevant aspects:
-... Performance (and latency)
+...Performance (and latency)
 
 ### Some key concepts:
 #### Performance
 * Performance is characterized by the amount of useful work accomplished by a computer system compared to the time and resources used. Which means to achive:
-... Short response time/low latency for a given piece of work
-... High throughput (rate of processing work)
-... Low utilization of computing resource(s)
+...Short response time/low latency for a given piece of work
+...High throughput (rate of processing work)
+...Low utilization of computing resource(s)
 * There's alwasys trade off between these factors, but low latency- - achieving a short response time - is the most interesting aspect of performance.
 
 #### Latency:
@@ -36,7 +36,7 @@ ability of a system, network, or process, to handle a growing amount of work in 
 
 #### Availability (and fault tolerance):
 * Availability:
-... the proportion of time a system is in a functioning condition. If a user cannot access the system, it is said to be unavailable.
+...the proportion of time a system is in a functioning condition. If a user cannot access the system, it is said to be unavailable.
 
 
 
