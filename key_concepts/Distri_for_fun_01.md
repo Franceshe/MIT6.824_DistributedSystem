@@ -11,19 +11,17 @@ not a viable strategy for large scale computing.
 ...2. When adding new machines, we have to use distributed algorithm to efficient
 ly copy datas around and coordinate computation tasks. At minimum cost.
 
-* Focus in this text:
-...*. disributed programming and system in DATA CENTERS.
-...*. Explore the system design space rather than optimization specific design.
+#### Focus in this text:
+...* disributed programming and system in DATA CENTERS.
+...* Explore the system design space rather than optimization specific design.
 
 #### Goal: achieve Scalability and ...
-1. Scalability: how to dealt with size issue? a more formal definition:is the
-ability of a system, network, or process, to handle a growing amount of work in
-a capable manner or its ability to be enlarged to accommodate that growth.
-..* About size scalability, geographic scalability, admin scalability.
-..* Two relevant aspects:
-..* Performance (and latency):
-...Performance is characterized by the amount of useful work accomplished by a
-computer system compared to the time and resources used. Which means to achive:
+* Scalability: how to dealt with size issue? a more formal definition:is the
+ability of a system, network, or process, to handle a growing amount of work in a capable manner or its ability to be enlarged to accommodate that growth.
+* About size scalability, geographic scalability, admin scalability.
+* Two relevant aspects:
+... Performance (and latency):
+... Performance is characterized by the amount of useful work accomplished by a computer system compared to the time and resources used. Which means to achive:
 
 
 
